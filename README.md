@@ -2,10 +2,11 @@
 ## Welcome to Information Security for Digital Researchers!
 
 This webpage contains a collection of resources, divided by topic, that
-will be useful both as background and as course material. I've tried to
-arrange them in as helpful a manner as I can, but hope that you will
-reach out with any questions or concerns. And with that... let's get
-started.
+will be useful both as background and as course material. You don't have to browse them all, and you don't have to absorb everything. This is just context.
+I've tried to arrange them in as helpful a manner as I can, but hope that you will
+reach out with any questions or concerns.
+
+And with that... let's get started.
 
 ------------------------------------------------------------------------
 
@@ -42,8 +43,7 @@ started.
 
 -   [Hackers: the internet's immune system | Keren
     Elazari](https://www.youtube.com/watch?v=erCAp_Bd0AQ)
- -    [Related podcast:
-    https://www.jamestaylor.me/keren-elazari/](https://www.jamestaylor.me/keren-elazari/)
+-   [Related podcast: https://www.jamestaylor.me/keren-elazari/](https://www.jamestaylor.me/keren-elazari/)
 -   [How the NSA betrayed the world's trust -- time to act | Mikko
     Hypponen](https://www.youtube.com/watch?v=9CqVYUOjHLw)
 -   [Mikko Hypponen: Fighting viruses, defending the
