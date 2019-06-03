@@ -104,22 +104,22 @@ guide is perfect, as is. We'll talk things through.
 
 ### DHSI 2019 -- Day one
 ## Patches
-- [Decent Security](https://decentsecurity.com)
-- [Apple Support](https://support.apple.com/en-ca/guide/mac-help/mchlpx1065/mac)
+-   [Decent Security](https://decentsecurity.com)
+-   [Apple Support](https://support.apple.com/en-ca/guide/mac-help/mchlpx1065/mac)
 
 ## On the wire
-- [Why https?](https://desterhuizen.uk/security/2019/05/29/why-https.html)
-- [What I use Wireshark for](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
-- [Little Snitch](https://www.obdev.at/index.html)
-- [Lulu](https://objective-see.com/products/lulu.html)
+-   [Why https?](https://desterhuizen.uk/security/2019/05/29/why-https.html)
+-   [What I use Wireshark for](https://jvns.ca/blog/2018/06/19/what-i-use-wireshark-for/)
+-   [Little Snitch](https://www.obdev.at/index.html)
+-   [Lulu](https://objective-see.com/products/lulu.html)
 
 ## Encrypting your disk
-- [Apple Support](https://support.apple.com/en-us/HT204837)
-- [Windows](https://fossbytes.com/enable-full-disk-encryption-windows-10/)
-- [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
+-   [Apple Support](https://support.apple.com/en-us/HT204837)
+-   [Windows](https://fossbytes.com/enable-full-disk-encryption-windows-10/)
+-   [VeraCrypt](https://www.veracrypt.fr/en/Home.html)
 
 ## Passwords
-- [What is a hash function?](https://en.wikipedia.org/wiki/Hash_function)
-- [Evicting the Password from the Digital Estate](http://www.irongeek.com/i.php?page=videos/circlecitycon2019/track-1-04-evicting-the-password-from-the-digital-estate-alex-chalmers)
-- [TinkerSec](https://twitter.com/TinkerSec/status/1096046635593928704)
-- [Use a Passphrase](https://www.useapassphrase.com)
+-   [What is a hash function?](https://en.wikipedia.org/wiki/Hash_function)
+-   [Evicting the Password from the Digital Estate](http://www.irongeek.com/i.php?page=videos/circlecitycon2019/track-1-04-evicting-the-password-from-the-digital-estate-alex-chalmers)
+-   [TinkerSec](https://twitter.com/TinkerSec/status/1096046635593928704)
+-   [Use a Passphrase](https://www.useapassphrase.com)
