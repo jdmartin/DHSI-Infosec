@@ -123,3 +123,6 @@ guide is perfect, as is. We'll talk things through.
 -   [Evicting the Password from the Digital Estate](http://www.irongeek.com/i.php?page=videos/circlecitycon2019/track-1-04-evicting-the-password-from-the-digital-estate-alex-chalmers)
 -   [TinkerSec](https://twitter.com/TinkerSec/status/1096046635593928704)
 -   [Use a Passphrase](https://www.useapassphrase.com)
+
+### DHSI 2019 -- Day two
+-   [OSINT Exercises](https://tisiphone.net/2017/01/25/thwart-my-osint-efforts-while-binging-tv/)
