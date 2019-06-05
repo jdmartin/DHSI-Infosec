@@ -124,5 +124,16 @@ guide is perfect, as is. We'll talk things through.
 -   [TinkerSec](https://twitter.com/TinkerSec/status/1096046635593928704)
 -   [Use a Passphrase](https://www.useapassphrase.com)
 
-### DHSI 2019 -- Day two
+### DHSI 2019 -- Day two (Order to be improved...)
 -   [OSINT Exercises](https://tisiphone.net/2017/01/25/thwart-my-osint-efforts-while-binging-tv/)
+-   [Algo VPN](https://github.com/trailofbits/algo)
+-   [DNSCrypt](https://www.dnscrypt.org/#dnscrypt-macos)
+-   [Cloudflare DNS](https://1.1.1.1/dns/)
+-   [Quad9 DNS](https://www.quad9.net)
+
+## Videos
+-   [Vice: Everything you need to know about the hidden ways facebook ads target you](https://news.vice.com/en_us/article/bjpp3a/everything-you-need-to-know-about-the-hidden-ways-facebook-ads-target-you)
+-   [TED: Jennifer Golbeck, Your Social Media "likes" expose more than you think](https://www.ted.com/talks/jennifer_golbeck_the_curly_fry_conundrum_why_social_media_likes_say_more_than_you_might_think)
+-   [NYT: How Facebook Tracks Your Data](https://www.youtube.com/watch?v=JAO_3EvD3DY)
+-   [TED: James Lyne, Everyday cybercrime — and what you can do about it](https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it)
+-   [CircleCityCon 2018: Stealing Cycles, Mining Coin: An introduction to Malicious Cryptomining](http://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-107-stealing-cycles-mining-coin-an-introduction-to-malicious-cryptomining-edmund-brumaghin-nick-biasini)
