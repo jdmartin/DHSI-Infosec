@@ -153,3 +153,8 @@ guide is perfect, as is. We'll talk things through.
 ## Social Media
 -   [Protect Yourself on Social Networks](https://ssd.eff.org/en/module/protecting-yourself-social-networks)
 -   [This is almost certainly James Comey's Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)
+
+## Signal
+-   [Configuring for iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
+-   [Configuring for Android](https://ssd.eff.org/en/module/how-use-signal-android)
+-   [Locking Down Signal](https://freedom.press/training/locking-down-signal/)
