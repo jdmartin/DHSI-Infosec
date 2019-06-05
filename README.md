@@ -163,6 +163,8 @@ guide is perfect, as is. We'll talk things through.
 ## Alternative Email
 -   [Protonmail like a pro](https://freedom.press/training/protonmail-pro/)
 
+## Advice (Generally good)
+-   [The Motherboard Guide to not Getting Hacked](https://www.vice.com/en_us/article/d3devm/motherboard-guide-to-not-getting-hacked-online-safety-guide)
 ## Advice (of varying quality, often overly restrictive)
 -   [Prism-Break](https://prism-break.org/en/)
 -   [Privacytools.io](https://www.privacytools.io)
