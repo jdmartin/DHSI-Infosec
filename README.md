@@ -158,3 +158,6 @@ guide is perfect, as is. We'll talk things through.
 -   [Configuring for iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
 -   [Configuring for Android](https://ssd.eff.org/en/module/how-use-signal-android)
 -   [Locking Down Signal](https://freedom.press/training/locking-down-signal/)
+
+## Alternative Email
+-   [Protonmail like a pro](https://freedom.press/training/protonmail-pro/)
