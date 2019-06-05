@@ -158,6 +158,11 @@ guide is perfect, as is. We'll talk things through.
 -   [Configuring for iOS](https://ssd.eff.org/en/module/how-use-signal-ios)
 -   [Configuring for Android](https://ssd.eff.org/en/module/how-use-signal-android)
 -   [Locking Down Signal](https://freedom.press/training/locking-down-signal/)
+-   [About 'Sealed Sender'](https://signal.org/blog/sealed-sender/)
 
 ## Alternative Email
 -   [Protonmail like a pro](https://freedom.press/training/protonmail-pro/)
+
+## Advice (of varying quality, often overly restrictive)
+-   [Prism-Break](https://prism-break.org/en/)
+-   [Privacytools.io](https://www.privacytools.io)
