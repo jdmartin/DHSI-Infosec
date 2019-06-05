@@ -151,4 +151,5 @@ guide is perfect, as is. We'll talk things through.
 ### DHSI 2019 -- Day three
 
 ## Social Media
+-   [Protect Yourself on Social Networks](https://ssd.eff.org/en/module/protecting-yourself-social-networks)
 -   [This is almost certainly James Comey's Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)
