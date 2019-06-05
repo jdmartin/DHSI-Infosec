@@ -168,3 +168,6 @@ guide is perfect, as is. We'll talk things through.
 ## Advice (of varying quality, often overly restrictive)
 -   [Prism-Break](https://prism-break.org/en/)
 -   [Privacytools.io](https://www.privacytools.io)
+
+## Privacy Tools
+-   [Tails](https://tails.boum.org/index.en.html)
