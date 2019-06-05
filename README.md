@@ -127,9 +127,19 @@ guide is perfect, as is. We'll talk things through.
 ### DHSI 2019 -- Day two (Order to be improved...)
 -   [OSINT Exercises](https://tisiphone.net/2017/01/25/thwart-my-osint-efforts-while-binging-tv/)
 -   [Algo VPN](https://github.com/trailofbits/algo)
+-   [Freedome VPN](https://www.f-secure.com/en/home/products/freedome)
+-   [Encrypt.me VPN](https://encrypt.me/)
+-   [VPN Comparison](https://thatoneprivacysite.net/)
 -   [DNSCrypt](https://www.dnscrypt.org/#dnscrypt-macos)
 -   [Cloudflare DNS](https://1.1.1.1/dns/)
 -   [Quad9 DNS](https://www.quad9.net)
+
+## Browsers
+-   [Privacy Badger](https://www.eff.org/privacybadger/faq)
+-   [HTTPS Everywhere](https://www.eff.org/https-everywhere)
+-   [uBlock Origin](https://github.com/gorhill/uBlock)
+-   [Brave](https://brave.com/)
+-   [Tor](https://www.torproject.org/)
 
 ## Videos
 -   [Vice: Everything you need to know about the hidden ways facebook ads target you](https://news.vice.com/en_us/article/bjpp3a/everything-you-need-to-know-about-the-hidden-ways-facebook-ads-target-you)
