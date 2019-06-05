@@ -147,3 +147,8 @@ guide is perfect, as is. We'll talk things through.
 -   [NYT: How Facebook Tracks Your Data](https://www.youtube.com/watch?v=JAO_3EvD3DY)
 -   [TED: James Lyne, Everyday cybercrime — and what you can do about it](https://www.ted.com/talks/james_lyne_everyday_cybercrime_and_what_you_can_do_about_it)
 -   [CircleCityCon 2018: Stealing Cycles, Mining Coin: An introduction to Malicious Cryptomining](http://www.irongeek.com/i.php?page=videos/circlecitycon2018/circle-city-con-50-107-stealing-cycles-mining-coin-an-introduction-to-malicious-cryptomining-edmund-brumaghin-nick-biasini)
+
+### DHSI 2019 -- Day three
+
+## Social Media
+-   [This is almost certainly James Comey's Twitter Account](https://gizmodo.com/this-is-almost-certainly-james-comey-s-twitter-account-1793843641)
