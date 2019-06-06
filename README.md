@@ -171,3 +171,13 @@ guide is perfect, as is. We'll talk things through.
 
 ## Privacy Tools
 -   [Tails](https://tails.boum.org/index.en.html)
+-   [SecureDrop](https://securedrop.org/)
+
+## Filesharing
+-   [OnionShare](https://onionshare.org)
+-   [Firefox Send](https://send.firefox.com)
+-   [Magic Wormhole](https://magic-wormhole.readthedocs.io/en/latest/)
+
+## IPFS
+-   [IPFS](https://ipfs.io)
+-   [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
