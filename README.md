@@ -181,3 +181,22 @@ guide is perfect, as is. We'll talk things through.
 ## IPFS
 -   [IPFS](https://ipfs.io)
 -   [IPFS Desktop](https://github.com/ipfs-shipyard/ipfs-desktop)
+
+## Misc
+-   [Cloudflare: Randomness 101](https://blog.cloudflare.com/randomness-101-lavarand-in-production/)
+
+### DHSI 2019 -- Day four
+
+## IPFS
+-   [The next Internet Revolution | Juan Benet | TEDxSanFrancisco](https://www.youtube.com/watch?v=2RCwZDRwk48)
+-   [In-Browser IPFS](https://github.com/ipfs/in-web-browsers)
+-   [Turkey Can’t Block This Copy of Wikipedia](https://observer.com/2017/05/turkey-wikipedia-ipfs/)
+-   [Uncensorable Wikipedia on IPFS](https://ipfs.io/blog/24-uncensorable-wikipedia/)
+-   [How the Catalan government uses IPFS to sidestep Spain's legal block](http://la3.org/~kilburn/blog/catalan-government-bypass-ipfs/)
+
+
+## General
+-   [EFF: Who has your back? (2017) -- other years available.](https://www.eff.org/who-has-your-back-2017)
+
+## Backups
+-   [What is RAID?](https://www.lifewire.com/what-is-raid-4095329)
