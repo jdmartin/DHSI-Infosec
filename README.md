@@ -1,6 +1,8 @@
 
 ## Welcome to Information Security for Digital Researchers!
 
+N.B. March 2021 - A revamp of this page and its contents is expected in Spring 2021.  Sorry for the long silence...
+
 This webpage contains a collection of resources, divided by topic, that
 will be useful both as background and as course material. You don't have to browse them all, and you don't have to absorb everything. This is just context.
 I've tried to arrange them in as helpful a manner as I can, but hope that you will
